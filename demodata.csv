@@ -1,0 +1,39 @@
+paper_key,position,author_name,conf_key,l0,l1,gender,global_key,year
+conf/aaai/0001JT16,0,Bart Bogaerts 0001,conf/aaai/2016np,GreaterEuropean,Jewish,M,aaai,2016
+conf/aaai/0001JT16,1,Tomi Janhunen,conf/aaai/2016np,GreaterEuropean,WestEuropean,M,aaai,2016
+conf/aaai/0001JT16,2,Shahab Tasharrofi,conf/aaai/2016np,GreaterAfrican,Muslim,M,aaai,2016
+conf/aaai/KoppSK16,2,Henry A. Kautz,conf/aaai/2016np,GreaterEuropean,Jewish,M,aaai,2016
+conf/aaai/MeelVCFSFIM16,6,Alexander Ivrii,conf/aaai/2016np,GreaterEuropean,EastEuropean,M,aaai,2016
+conf/aaai/BalabanovJMS16,0,Valeriy Balabanov,conf/aaai/2016np,GreaterEuropean,EastEuropean,M,aaai,2016
+conf/aaai/BalabanovJMS16,1,Jie-Hong Roland Jiang,conf/aaai/2016np,Asian,GreaterEastAsian,-,aaai,2016
+conf/aaai/BeyersdorffCJ16,2,Mikolas Janota,conf/aaai/2016np,Asian,GreaterEastAsian,-,aaai,2016
+conf/aaai/BalabanovJMS16,2,Alan Mishchenko,conf/aaai/2016np,GreaterEuropean,EastEuropean,M,aaai,2016
+conf/aaai/BalabanovJMS16,3,Christoph Scholl,conf/aaai/2016np,GreaterEuropean,WestEuropean,M,aaai,2016
+conf/aaai/Belle16,0,Vaishak Belle,conf/aaai/2016np,GreaterEuropean,WestEuropean,M,aaai,2016
+conf/aaai/BeyersdorffCJ16,0,Olaf Beyersdorff,conf/aaai/2016np,GreaterEuropean,WestEuropean,M,aaai,2016
+conf/aaai/BeyersdorffCJ16,1,Leroy Chew,conf/aaai/2016np,Asian,GreaterEastAsian,M,aaai,2016
+conf/aaai/DarwicheMM16,2,Pierre Marquis,conf/aaai/2016np,GreaterEuropean,WestEuropean,M,aaai,2016
+conf/aaai/BliemCHW16,0,Bernhard Bliem,conf/aaai/2016np,GreaterEuropean,Jewish,M,aaai,2016
+conf/aaai/BliemCHW16,1,Günther Charwat,conf/aaai/2016np,Asian,IndianSubContinent,M,aaai,2016
+conf/aaai/BliemCHW16,2,Markus Hecher,conf/aaai/2016np,GreaterEuropean,Jewish,M,aaai,2016
+conf/aaai/BliemCHW16,3,Stefan Woltran,conf/aaai/2016np,GreaterEuropean,Jewish,M,aaai,2016
+conf/aaai/DarwicheMM16,0,Adnan Darwiche,conf/aaai/2016np,GreaterAfrican,Muslim,M,aaai,2016
+conf/aaai/KazemiP16,1,David Poole,conf/aaai/2016np,GreaterEuropean,British,M,aaai,2016
+conf/aaai/VlasselaerKDMR16,3,Wannes Meert,conf/aaai/2016np,GreaterEuropean,WestEuropean,M,aaai,2016
+conf/aaai/VlasselaerKDMR16,4,Luc De Raedt,conf/aaai/2016np,GreaterEuropean,WestEuropean,M,aaai,2016
+conf/aaai/MeelVCFSFIM16,1,Moshe Y. Vardi,conf/aaai/2016np,GreaterEuropean,British,M,aaai,2016
+conf/aaai/MeelVCFSFIM16,2,Supratik Chakraborty,conf/aaai/2016np,Asian,IndianSubContinent,M,aaai,2016
+conf/aaai/MeelVCFSFIM16,3,Daniel J. Fremont,conf/aaai/2016np,GreaterEuropean,Jewish,M,aaai,2016
+conf/aaai/MeelVCFSFIM16,0,Kuldeep S. Meel,conf/aaai/2016np,Asian,IndianSubContinent,M,aaai,2016
+conf/aaai/MeelVCFSFIM16,4,Sanjit A. Seshia,conf/aaai/2016np,Asian,IndianSubContinent,M,aaai,2016
+conf/aaai/DarwicheMM16,1,Joao Marques-Silva,conf/aaai/2016np,GreaterEuropean,WestEuropean,M,aaai,2016
+conf/aaai/KoppSK16,1,Parag Singla,conf/aaai/2016np,Asian,IndianSubContinent,M,aaai,2016
+conf/aaai/GribkoffS16,0,Eric Gribkoff,conf/aaai/2016np,GreaterEuropean,EastEuropean,M,aaai,2016
+conf/aaai/GribkoffS16,1,Dan Suciu,conf/aaai/2016np,GreaterEuropean,WestEuropean,M,aaai,2016
+conf/aaai/JordanKS16,0,Charles Jordan,conf/aaai/2016np,GreaterEuropean,British,M,aaai,2016
+conf/aaai/JordanKS16,1,Will Klieber,conf/aaai/2016np,GreaterEuropean,Jewish,M,aaai,2016
+conf/aaai/JordanKS16,2,Martina Seidl,conf/aaai/2016np,GreaterEuropean,British,F,aaai,2016
+conf/aaai/KenigG16,1,Avigdor Gal,conf/aaai/2016np,GreaterEuropean,WestEuropean,M,aaai,2016
+conf/aaai/KazemiP16,0,Seyed Mehran Kazemi,conf/aaai/2016np,GreaterAfrican,Muslim,M,aaai,2016
+conf/aaai/KenigG16,0,Batya Kenig,conf/aaai/2016np,GreaterEuropean,Jewish,F,aaai,2016
+conf/aaai/VlasselaerKDMR16,1,Angelika Kimmig,conf/aaai/2016np,GreaterEuropean,EastEuropean,F,aaai,2016
