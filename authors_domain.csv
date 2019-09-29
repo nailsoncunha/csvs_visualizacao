@@ -1,13 +1,10 @@
-subarea,genero,autores,prop_autores
-Computer Science,Feminino,54765,20.31176981106883
-Computer Science,Masculino,194706,72.21443354028973
-Computer Science,Não Informado,20151,7.473796648641431
-Data Engineering,Feminino,13311,20.184084430157093
-Data Engineering,Masculino,47029,71.31224601200947
-Data Engineering,Não Informado,5608,8.503669557833444
-Software Engineering,Feminino,7404,19.06429435847259
-Software Engineering,Masculino,29901,76.99101372402606
-Software Engineering,Não Informado,1532,3.944691917501352
-Theory,Feminino,8326,13.37316693168859
-Theory,Masculino,51060,82.01223919433335
-Theory,Não Informado,2873,4.61459387397806
+domain,gender,authors
+Computer Science,Feminino,54765
+Computer Science,Masculino,194706
+Data Engineering,Feminino,13311
+Data Engineering,Masculino,47029
+Software Engineering,Feminino,7404
+Software Engineering,Masculino,29901
+Software Engineering,Não Informado,1532
+Theory,Feminino,8326
+Theory,Masculino,51060
